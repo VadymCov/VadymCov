@@ -49,9 +49,6 @@ I believe in learning by doing! That's why I focus on building real projects rat
 - 🆘 Happy to help with Python code and Django questions
 - 🤖 Always interested in discussing programming concepts and best practices
 
-## 📊 GitHub Stats
-
-![Vadym's GitHub stats](https://github-readme-stats.vercel.app/api?username=VadymCov&show_icons=true&theme=radical)
 
 ---
 
