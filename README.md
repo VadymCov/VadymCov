@@ -25,13 +25,13 @@ Welcome to my GitHub profile! I'm a passionate Python developer on an exciting j
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
-### 🌱 Currently Learning
+###  Currently Learning
 - Advanced Python concepts and best practices
 - Django web development
 - Database design and optimization
 - Clean code principles
 
-## 🌱 What I'm Currently Working On
+##  What I'm Currently Working On
 
 - 📈 Improving my Python programming skills through hands-on projects
 - 🎯 Mastering Django framework for web development
