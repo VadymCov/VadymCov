@@ -8,11 +8,11 @@ Welcome to my GitHub profile! I'm a passionate Python developer on an exciting j
 
 ##  About Me
 
-- 🐍 **Python Enthusiast** - Constantly exploring the depths of Python programming
-- 🌐 **Django Developer** - Building web applications with the Django framework
-- 🛠️ **Project Builder** - Working on small projects to sharpen my programming skills
-- 📚 **Lifelong Learner** - Actively taking various programming courses and tutorials
-- 💡 **Problem Solver** - Love tackling coding challenges and finding elegant solutions
+-  **Python Enthusiast** - Constantly exploring the depths of Python programming
+-  **Django Developer** - Building web applications with the Django framework
+-  **Project Builder** - Working on small projects to sharpen my programming skills
+-  **Lifelong Learner** - Actively taking various programming courses and tutorials
+-  **Problem Solver** - Love tackling coding challenges and finding elegant solutions
 
 ## 🔧 Technologies & Tools
 
