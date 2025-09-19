@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile! I'm a passionate Python developer on an exciting journey of continuous learning and growth.
 
-## 🚀 About Me
+##  About Me
 
 - 🐍 **Python Enthusiast** - Constantly exploring the depths of Python programming
 - 🌐 **Django Developer** - Building web applications with the Django framework
