@@ -33,25 +33,25 @@ Welcome to my GitHub profile! I'm a passionate Python developer on an exciting j
 
 ##  What I'm Currently Working On
 
-- 📈 Improving my Python programming skills through hands-on projects
-- 🎯 Mastering Django framework for web development
-- 🔍 Exploring new programming concepts and methodologies
-- 📝 Building a portfolio of practical applications
+- Improving my Python programming skills through hands-on projects
+- Mastering Django framework for web development
+- Exploring new programming concepts and methodologies
+- Building a portfolio of practical applications
 
-## 💼 My Approach
+## My Approach
 
 I believe in learning by doing! That's why I focus on building real projects rather than just theoretical knowledge. Every line of code I write is a step forward in my programming journey.
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
-- 📫 **Email:** vadymkravtcsov@gmail.com
-- 💬 Open to collaboration on Python and Django projects
-- 🆘 Happy to help with Python code and Django questions
-- 🤖 Always interested in discussing programming concepts and best practices
+- **Email:** vadymkravtcsov@gmail.com
+- Open to collaboration on Python and Django projects
+- Happy to help with Python code and Django questions
+- Always interested in discussing programming concepts and best practices
 
 
 ---
 
 *"The best way to learn programming is by programming!"*
 
-⭐️ From [Vadym](https://github.com/VadymCov)
+From [Vadym](https://github.com/VadymCov)
