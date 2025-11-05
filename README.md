@@ -4,17 +4,9 @@
 **VadymCov/VadymCov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Welcome to my GitHub profile! I'm a passionate Python developer on an exciting journey of continuous learning and growth.
+My GitHub profile! I'm a Python developer focused on continuous learning and growth.
 
-##  About Me
-
--  **Python Enthusiast** - Constantly exploring the depths of Python programming
--  **Django Developer** - Building web applications with the Django framework
--  **Project Builder** - Working on small projects to sharpen my programming skills
--  **Lifelong Learner** - Actively taking various programming courses and tutorials
--  **Problem Solver** - Love tackling coding challenges and finding elegant solutions
-
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -26,9 +18,8 @@ Welcome to my GitHub profile! I'm a passionate Python developer on an exciting j
 </p>
 
 ###  Currently Learning
-- Advanced Python concepts and best practices
+- Advanced Python concepts 
 - Django web development
-- Database design and optimization
 - Clean code principles
 
 ##  What I'm Currently Working On
@@ -38,9 +29,7 @@ Welcome to my GitHub profile! I'm a passionate Python developer on an exciting j
 - Exploring new programming concepts and methodologies
 - Building a portfolio of practical applications
 
-## My Approach
 
-I believe in learning by doing! That's why I focus on building real projects rather than just theoretical knowledge. Every line of code I write is a step forward in my programming journey.
 
 ## Let's Connect!
 
