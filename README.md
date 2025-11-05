@@ -1,4 +1,4 @@
-# Hello everyone. My name is Vadim.
+# Hello everybody. My name is Vadim.
 
 <!--
 **VadymCov/VadymCov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
