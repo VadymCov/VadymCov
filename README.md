@@ -1,10 +1,10 @@
-# Hello everybody. My name is Vadim.
 
 <!--
 **VadymCov/VadymCov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-My GitHub profile! I'm a Python developer focused on continuous learning and growth.
+My GitHub profile!  My name is Vadim.
+I'm a Python developer focused on continuous learning and growth.
 
 ## Technologies & Tools
 
