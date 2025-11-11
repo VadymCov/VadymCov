@@ -22,8 +22,5 @@ I'm a Python developer focused on continuous learning and growth.
 - Django web development
 
 ---
-- **Email:** vadymkravtcsov@gmail.com
-
-*"The best way to learn programming is by programming!"*
-
+**Email:** vadymkravtcsov@gmail.com
 From [Vadym](https://github.com/VadymCov)
