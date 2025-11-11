@@ -23,4 +23,3 @@ I'm a Python developer focused on continuous learning and growth.
 
 ---
 **Email:** vadymkravtcsov@gmail.com
-From [Vadym](https://github.com/VadymCov)
