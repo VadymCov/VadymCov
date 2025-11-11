@@ -20,26 +20,9 @@ I'm a Python developer focused on continuous learning and growth.
 ###  Currently Learning
 - Advanced Python concepts 
 - Django web development
-- Clean code principles
-
-##  What I'm Currently Working On
-
-- Improving my Python programming skills through hands-on projects
-- Mastering Django framework for web development
-- Exploring new programming concepts and methodologies
-- Building a portfolio of practical applications
-
-
-
-## Let's Connect!
-
-- **Email:** vadymkravtcsov@gmail.com
-- Open to collaboration on Python and Django projects
-- Happy to help with Python code and Django questions
-- Always interested in discussing programming concepts and best practices
-
 
 ---
+- **Email:** vadymkravtcsov@gmail.com
 
 *"The best way to learn programming is by programming!"*
 
